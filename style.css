@@ -1,0 +1,149 @@
+.color{
+    background-color:#d9ed92;
+}
+a{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+}
+.second{
+    background-image: url(image3.jpg);
+    
+}
+.word{
+    font-style: italic;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 60%;
+    text-align: center;
+    font-size: 18px;
+}
+.aa:visited{
+    color: darkblue;
+}
+.hcolor:hover{
+    color: #d2691e;
+}
+.about:hover{
+    color: chocolate;
+}
+.acolor:visited{
+    color: darkblue;
+}
+.lcolor:hover{
+    color: chocolate;
+}
+.contact:visited{
+    color: darkblue;
+}
+.ccolor:hover{
+    color: chocolate;
+}
+.char{
+    font-weight: bold;
+}
+.letter{
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+}
+.sth{
+    border-radius: 20px;
+}
+.cc{
+    background-image: url(bg-1.PNG);
+}
+.pocket{
+    background-color:#52b69a ;
+}
+#word{
+    font-size: large;
+}
+.beef{
+    font-weight: bold;
+    font-size: 18px;
+}
+.chicken{
+    font-weight: bold;
+    font-size: 18px;
+}
+.dessert{
+    font-weight: bold;
+    font-size: 18px;
+}
+.lamb{
+    font-weight: bold;
+    font-size: 18px;
+}
+.miscellaneous{
+    font-weight: bold;
+    font-size: 18px;
+}
+.pasta{
+    font-weight: bold;
+    font-size: 18px;
+}
+.review{
+    font-weight: bold;
+    font-size: 18px;
+}
+.gender{
+    font-weight: bold;
+    text-align: center;
+}
+.date{
+    font-weight: bold;
+    text-align: center;
+}
+.pork{
+    font-weight: bold;
+    font-size: 18px;
+}
+.seafood{
+    font-weight: bold;
+    font-size: 18px;
+}
+.side{
+    font-weight: bold;
+    font-size: 18px;
+}
+.starter{
+    font-weight: bold;
+    font-size: 18px;
+}
+.vegan{
+    font-weight: bold;
+    font-size: 18px;
+}
+.vegetarian{
+    font-weight: bold;
+    font-size: 18px;
+}
+.breakfast{
+    font-weight: bold;
+    font-size: 18px;
+}
+.goat{
+    font-weight: bold;
+    font-size: 18px;
+}
+#para{
+    width: 100%;
+    height: 500px;
+    border: 2px solid;
+    padding: 20px;
+    background-position:left;
+}
+.price{
+    font-weight: bold;
+    font-size: 18px;
+}
+.third{
+    background-image: url(try-bg.jpg);
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+.food:hover{
+    filter: brightness(1.0);
+    transform: scale(1.1);
+    cursor: pointer;
+}
